@@ -1,0 +1,80 @@
+/* Position and sizing of burger button */
+.bm-burger-button {
+    position: fixed;
+    width: 32px;
+    height: 30px;
+    left: 32px;
+    top: 32px;
+  }
+  
+  /* Color/shape of burger icon bars */
+  .bm-burger-bars {
+    background: #373a47;
+  }
+  
+  /* Color/shape of burger icon bars on hover*/
+  .bm-burger-bars-hover {
+    background: #000;
+  }
+  
+  /* Position and sizing of clickable cross button */
+  .bm-cross-button {
+    height: 24px;
+    width: 24px;
+  }
+  
+  /* Color/shape of close button cross */
+  .bm-cross {
+    background: #fff;
+  }
+  
+
+  .bm-menu-wrap {
+    position: fixed;
+    height: 100%;
+    overflow-x: hidden;
+    box-shadow: 0px 4px 31px rgba(0,0,0,0.15);
+  }
+  
+  .bm-menu{
+    background: linear-gradient(39.97deg, #03d6f3 0.79%, #458ff6 79.29%);
+    padding: 2.5rem 1.5rem 0 0;
+    height: 100vh;
+    overflow: hidden !important;
+}
+
+  /* Wrapper for item list */
+  .bm-item-list {
+    padding: 0.8em;
+  }
+  
+.menu-item{
+    position: relative;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #fff;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    padding: 10px;
+}
+.menu-item:before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    visibility: hidden;
+    transition: all 0.5s ease-in-out;
+}
+
+.active-item{
+    font-weight: 800;
+}
+.menu-item:hover:before,
+.active-item:before{
+    visibility: visible;
+    height: 3px;
+}
