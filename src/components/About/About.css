@@ -1,82 +1,94 @@
-.about-section{
-display: flex;
-flex-direction: row;
-/* if elements goes outside the container on decreasing screen size */
-flex-wrap: wrap;
-padding: 40px 80px;
+.about-section {
+    display: flex;
+    flex-direction: row;
+    /* if elements goes outside the container on decreasing screen size */
+    flex-wrap: wrap;
+    padding: 40px 80px;
 
 }
 
 .left-container,
-.right-container{
+.right-container {
     width: 50%;
 }
-.left-container{
+
+.left-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-.left-container *p{
+
+.left-container *p {
     font-family: Poppins;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
     word-spacing: 1px;
     text-decoration: none;
+    padding: 0px 10px;
 }
-.left-container a{
+
+.left-container a {
     color: #458ff6;
     text-decoration: none;
 }
-.right-container{
+
+.right-container {
     display: flex;
     justify-content: flex-end;
 }
-.about-anime{
+
+.about-anime {
     height: 420px;
     width: 400px;
     max-height: 100%;
     max-width: 100%;
-    
+
 }
-.vector-image{
+
+.vector-image {
     width: 50%;
     position: absolute;
     bottom: 0;
-    left:0;
+    left: 0;
     z-index: -10;
 }
-.about-image{
+
+.about-image {
     display: block;
     max-width: 90%;
     max-height: 100%;
 }
-.btn2{
+
+.btn2 {
     border: none;
     font-size: 20px;
     margin: 2rem;
-    filter:drop-shadow(0px 2px 3px rgba(0,0,0,0.5));
+    filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.5));
     background: linear-gradient(39.97deg, #03d6f3 0.79%, #458ff6 79.29%);
     align-self: center;
 }
-.btn2 a{
+
+.btn2 a {
     color: white;
     text-decoration: none;
 }
-@media only screen and (max-width:640px){
-    .vector-image{
-        width: 90%;        
+
+@media only screen and (max-width:640px) {
+    .vector-image {
+        width: 90%;
     }
-    .about-section{
+
+    .about-section {
         padding: 20px;
     }
-    
-    .left-container p{
+
+    .left-container p {
         font-size: smaller;
     }
 
     .left-container,
-    .right-container{
+    .right-container {
         width: 100%;
         padding: 8px 20px;
     }
