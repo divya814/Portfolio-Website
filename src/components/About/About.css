@@ -23,6 +23,7 @@ padding: 40px 80px;
     line-height: 24px;
     word-spacing: 1px;
     text-decoration: none;
+    padding: 0px 4px;
 }
 .left-container a{
     color: #458ff6;
