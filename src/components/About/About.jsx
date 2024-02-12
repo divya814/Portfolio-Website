@@ -10,7 +10,7 @@ const About = () => {
         <div className="section-container">
             <Heading
                 heading="About Me"
-                details="Software developer || Python || Front-End"
+                details="Software Developer || Python || Front-End Development"
             ></Heading>
 
             {/* <div className="vector-image">
@@ -19,11 +19,11 @@ const About = () => {
 
             <div className="about-section">
                 <div className="left-container">
-                    <p>I am Divya, a passionate Software Developer with 1.5 years of experience in the world of Python with a love for the art of Frontend.</p>
+                    <p>I am a passionate Software Developer with around 2 years of experience in the world of Python with a love for the art of Frontend.</p>
                     <p>Here I'm an artist painting with HTML, CSS, and JavaScript where pixels dance to the rhythm of user experience. Responsive design, seamless interactions, and captivating interfaces are my brushstrokes, creating an immersive experience for every user. I choreograph the dance with React and Git is my wand.</p>
-                    <p>I've done a few internships and freelancing projects to enhance my development skills and a few non-technical internships as well for personal growth and overall development.</p>
+                    <p>I've worked as a Software Developer in CSG International and have done a few internships and freelancing projects to enhance my development skills and a few non-technical internships as well for personal growth and overall development.</p>
                     <button type="button" class="btn btn2 text-uppercase">
-                        <a href="https://drive.google.com/file/d/1uVRCMx8RmAU4wEvZoQrJEhCUyeMa3teI/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
+                        <a href="https://drive.google.com/file/d/1ngyoJS8XlCGae65AMYcnVQ-v576kDroG/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
                     </button>
                 </div>
                 <div className="right-container">

@@ -16,7 +16,7 @@ export const projectsData = [
     {
         projectName: 'PokeDex',
         projectDescription:
-            "Pokemon was a huge part of our childhood. Check out all the datails of the pokemon using this super cool pokedex app :)",
+            "Pokemon was a huge part of our childhood. Check out all the datails of the pokemon using this super cool pokedex app :)🎴",
         imageUrl: 'https://imgur.com/KZiYzhX.png',        
         projectUrl: 'https://divya814.github.io/Pokedex/',
     },
@@ -27,32 +27,20 @@ export const projectsData = [
         imageUrl: 'https://imgur.com/YkyQsas.png',          
         projectUrl: 'https://divya814.github.io/NameIt-App/',
     },
-    // {
-    //     projectName: 'Flexbox Cheatsheet',
-    //     projectDescription:
-    //         'Sometimes it is quite confusing to understand the concepts of CSS Flexbox. So I come up with a CSS Flexbox cheatsheet application, built using CSS Flexbox. Learn the concepts of flexbox by building a cheatsheet!',
-    //     imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj3.PNG',       
-    //     projectUrl: 'http://theleanprogrammer.com/flex/',
-    // },
+    
     {
-        projectName: 'Information Management Portal',
+        projectName: 'YouTube Clone',
         projectDescription:
-            "A portal to manage the details of children associated with the NGO - LightDeLiteracy developed using HTML, CSS , JS, PHP and SQL. Majorly worked on the Frontend part",
-        imageUrl: 'https://imgur.com/8eI9CS0.png',        
-        projectUrl: 'https://github.com/divya814/LDL',
+            "Amazing YouTube app made using ReactJS, Tailwind CSS and YouTube API from RapidAPI. You can watch any video here that too without any ad😉",
+        imageUrl: 'https://imgur.com/O2DrAAW.png',        
+        projectUrl: 'https://youtube-clone-by-divya.netlify.app/',
     },
     {
-        projectName: 'Gift A Grin',
+        projectName: 'Spotify Clone',
         projectDescription:
-            "An e-commerce website for handmade products, developed using HTML, CSS ,Bootstrap, JS, PHP and SQL. Majorly worked on the Frontend part",
-        imageUrl: 'https://imgur.com/8bdGwR1.png',        
-        projectUrl: 'https://github.com/divya814/Gift_A_Grin-1',
+            "An amazing website which let's you play music melodies anytime, anywere 🎶 that too for freee! Give it a try and tell me your music recommendations😌",
+        imageUrl: 'https://imgur.com/kLT5hlS.png',        
+        projectUrl: 'https://beatspace.freewebhostmost.com/',
     },
-    // {
-    //     projectName: 'Personal Portfolio (old)',
-    //     projectDescription:
-    //         "Here's my old portfolio website which I have made using HTML5, CSS3 and Bootstrap4",
-    //     imageUrl: 'https://imgur.com/Ux0tFhL.png',        
-    //     projectUrl: 'https://divya814.github.io/',
-    // },
+    
 ];

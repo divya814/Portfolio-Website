@@ -61,7 +61,7 @@ const Contact=()=> {
         
             <Footer
             phrase="Read more "
-            link="about me"
+            link="about me!"
             address="/about"
             ></Footer>
 

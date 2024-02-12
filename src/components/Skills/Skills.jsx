@@ -10,7 +10,7 @@ const Skills=()=> {
     return (
         <div className="section-container">
             <Heading
-            heading="My Skills"
+            heading="Tech Skills"
             details="Here's the tech stack I have worked with"
             ></Heading>
 

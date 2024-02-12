@@ -1,5 +1,9 @@
 export const skillList = [
     {
+        skillName: 'Python',
+        skillUrl: 'https://imgur.com/vrsMnV8.png',
+    },
+    {
         skillName: 'HTML5',
         skillUrl: 'https://i.imgur.com/de4NFaQ.png',
     },
@@ -12,6 +16,10 @@ export const skillList = [
         skillUrl: 'https://imgur.com/Q5BvTYk.png',
     },
     {
+        skillName: 'Tailwind CSS',
+        skillUrl: 'https://imgur.com/UWRVx9j.png',
+    },
+    {
         skillName: 'Sass',
         skillUrl: 'https://imgur.com/TLRxlLf.png',
     },
@@ -20,7 +28,7 @@ export const skillList = [
         skillUrl: 'https://i.imgur.com/UNZVzDw.png',
     },
     {
-        skillName: 'React',
+        skillName: 'React JS',
         skillUrl: 'https://i.imgur.com/LoF8Ro9.png',
     },
     {
@@ -34,9 +42,5 @@ export const skillList = [
     {
         skillName: 'C++',
         skillUrl: 'https://imgur.com/NZVSOmj.png',
-    },
-    {
-        skillName: 'Python',
-        skillUrl: 'https://imgur.com/vrsMnV8.png',
     },
 ];
