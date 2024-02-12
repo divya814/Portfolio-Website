@@ -2,7 +2,7 @@ import React from 'react'
 import "./Contact.css"
 import Heading from '../Heading/Heading'
 import Footer from '../Footer/Footer'
-import contactVector from './../../assets/contact_anime.png';
+import contactVector from './../../assets/bg2.png';
 import github from './../../assets/gh.png';
 import linkedin from './../../assets/li.png';
 import instagram from './../../assets/in.png';

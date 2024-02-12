@@ -2,7 +2,7 @@ import React from 'react'
 import "./About.css"
 import Heading from '../Heading/Heading'
 import Footer from '../Footer/Footer'
-import aboutVector from "./../../assets/about_vector.png"
+// import aboutVector from "./../../assets/bg1.png"
 import aboutAnime from "./../../assets/about.gif"
 
 const About = () => {
@@ -13,9 +13,9 @@ const About = () => {
                 details="Software developer || Python || Front-End"
             ></Heading>
 
-            <div className="vector-image">
+            {/* <div className="vector-image">
                 <img src={aboutVector} alt="About-bg" className="about-image" />
-            </div>
+            </div> */}
 
             <div className="about-section">
                 <div className="left-container">

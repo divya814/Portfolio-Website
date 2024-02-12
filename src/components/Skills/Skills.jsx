@@ -2,7 +2,7 @@ import React from 'react'
 import "./Skills.css"
 import Heading from '../Heading/Heading'
 import Footer from '../Footer/Footer'
-import skillsVector from "./../../assets/skills_vector.png"
+import skillsVector from "./../../assets/bg1.png"
 import {skillList} from './../../assets/skillsData'
 import Skillcard from './Skillcard'
 

@@ -33,7 +33,7 @@
 }
 
 .skills-vector-frame{
-    width: 80%;
+    width: 100%;
     position: absolute;
     display: flex;
     flex-direction: row-reverse;
@@ -47,9 +47,7 @@
     width: 100%;
 }
 @media only screen and (max-width:640px){
-    .skills-vector-frame{
-        width: 90%;
-    }
+    
     .skill-card-container {
         margin: 80px 10%;
     }

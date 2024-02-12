@@ -1,5 +1,5 @@
 .home-container {
-    background: linear-gradient(39.97deg, #03d6f3 0.79%, #458ff6 79.29%);
+    background-image: linear-gradient(-20deg, #b721ff 0%, #24d6fe 100%);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -72,8 +72,10 @@
 }
 
 .btn:hover {
+    color: #fff;
+    background: #c468efe4;
     box-shadow: 1px 10px 32px rgba(0, 0, 0, 0.45);
-    transition: all 0.3s ease-in-out;
+    transition: all 0.2s ease-in-out;
 }
 
 .btn-text {

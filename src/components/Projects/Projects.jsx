@@ -7,7 +7,7 @@ import ProjectCard from "./ProjectCard"
 
 const Projects=()=> {
     return (
-        <div className="section-container">
+        <div className="section-container projects">
             
             <Heading
             heading="My Projects"
