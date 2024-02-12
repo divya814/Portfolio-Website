@@ -6,13 +6,7 @@ export const projectsData = [
         imageUrl: 'https://imgur.com/SSD860V.png',        
         projectUrl: 'https://divya814.github.io/Portfolio-Website/#/',
     },
-    {
-        projectName: 'FlashType',
-        projectDescription:
-            'Having a good typing speed will always help you as a developer! Check out my web application, where you can check your typing speed (in wpm)',
-        imageUrl: 'https://imgur.com/ZvWQMoM.png',        
-        projectUrl: 'https://divya814.github.io/flashtype/',
-    },
+    
     {
         projectName: 'PokeDex',
         projectDescription:
@@ -29,18 +23,25 @@ export const projectsData = [
     },
     
     {
+        projectName: 'BeatSpace App',
+        projectDescription:
+            "An amazing website which let's you play music melodies anytime, anywere 🎶 that too for freee! Give it a try and tell me your music recommendations😌",
+        imageUrl: 'https://imgur.com/Plh5YxH.png',        
+        projectUrl: 'https://beatspace.freewebhostmost.com/',
+    },
+    {
+        projectName: 'FlashType',
+        projectDescription:
+            'Having a good typing speed will always help you as a developer! Check out my web application, where you can check your typing speed (in wpm)',
+        imageUrl: 'https://imgur.com/ZvWQMoM.png',        
+        projectUrl: 'https://divya814.github.io/flashtype/',
+    },
+    {
         projectName: 'YouTube Clone',
         projectDescription:
             "Amazing YouTube app made using ReactJS, Tailwind CSS and YouTube API from RapidAPI. You can watch any video here that too without any ad😉",
         imageUrl: 'https://imgur.com/O2DrAAW.png',        
         projectUrl: 'https://youtube-clone-by-divya.netlify.app/',
-    },
-    {
-        projectName: 'Spotify Clone',
-        projectDescription:
-            "An amazing website which let's you play music melodies anytime, anywere 🎶 that too for freee! Give it a try and tell me your music recommendations😌",
-        imageUrl: 'https://imgur.com/kLT5hlS.png',        
-        projectUrl: 'https://beatspace.freewebhostmost.com/',
     },
     
 ];
