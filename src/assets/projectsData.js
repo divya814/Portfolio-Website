@@ -14,6 +14,7 @@ export const projectsData = [
         imageUrl: 'https://imgur.com/KZiYzhX.png',        
         projectUrl: 'https://divya814.github.io/Pokedex/',
     },
+
     {
         projectName: 'Name It!',
         projectDescription:
@@ -21,7 +22,13 @@ export const projectsData = [
         imageUrl: 'https://imgur.com/YkyQsas.png',          
         projectUrl: 'https://divya814.github.io/NameIt-App/',
     },
-    
+    {
+        projectName: 'YouTube Clone',
+        projectDescription:
+            "Amazing YouTube app made using ReactJS, Tailwind CSS and YouTube API from RapidAPI. You can watch any video here, that too without any ad😉",
+        imageUrl: 'https://imgur.com/O2DrAAW.png',        
+        projectUrl: 'https://github.com/divya814/YouTube-Clone',
+    },
     {
         projectName: 'BeatSpace App',
         projectDescription:
@@ -36,12 +43,4 @@ export const projectsData = [
         imageUrl: 'https://imgur.com/ZvWQMoM.png',        
         projectUrl: 'https://divya814.github.io/flashtype/',
     },
-    {
-        projectName: 'YouTube Clone',
-        projectDescription:
-            "Amazing YouTube app made using ReactJS, Tailwind CSS and YouTube API from RapidAPI. You can watch any video here that too without any ad😉",
-        imageUrl: 'https://imgur.com/O2DrAAW.png',        
-        projectUrl: 'https://youtube-clone-by-divya.netlify.app/',
-    },
-    
 ];
