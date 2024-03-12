@@ -23,7 +23,7 @@ const About = () => {
                     <p>Here I'm an artist painting with HTML, CSS, and JavaScript where pixels dance to the rhythm of user experience. Responsive design, seamless interactions, and captivating interfaces are my brushstrokes, creating an immersive experience for every user. I choreograph the dance with React and Git is my wand.</p>
                     <p>I've worked as a Software Developer in CSG International and have done a few internships and freelancing projects to enhance my development skills and a few non-technical internships as well for personal growth and overall development.</p>
                     <button type="button" class="btn btn2 text-uppercase">
-                        <a href="https://drive.google.com/file/d/1ngyoJS8XlCGae65AMYcnVQ-v576kDroG/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
+                        <a href="https://drive.google.com/file/d/1W8HobDXHABOMmjttU-_5CIam7ayvKQ7K/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
                     </button>
                 </div>
                 <div className="right-container">
